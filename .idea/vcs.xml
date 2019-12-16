@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CastVideos-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Medium/gson/gson_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Medium/mvvm1/mvvm_arch_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Medium/mvvm2/mvvm_arch_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Medium/retrofit/retrofit_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-UniversalMusicPlayer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-architecture-components" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/auo_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blog/bitbucket_book/book" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blog/blog_files" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blog/book" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blog/free_img" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blog/get_stock_data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chromecast/chromecast1/chromecast_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chromecast/chromecast2/chromecast_demo_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/easy_day_trade" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/enjarify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/file_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/get_api_sample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/koin-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/progress_dialog_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/個人作品/作品集/幽默股視線/analysis_news" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/個人作品/作品集/幽默股視線/stock_volume" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/個人作品/電子書/Blogger" vcs="Git" />
+  </component>
+</project>

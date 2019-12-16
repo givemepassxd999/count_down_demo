@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountDownDemo</string>
+    <string name="done">Done!</string>
+    <string name="remain">seconds remaining:</string>
+</resources>
